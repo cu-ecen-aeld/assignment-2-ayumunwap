@@ -1,0 +1,397 @@
+[2025-01-07 13:22:14Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'Credentials': '/home/ayamatani/aesd-assignments/actions-runner/.credentials'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'Runner': '/home/ayamatani/aesd-assignments/actions-runner/.runner'
+[2025-01-07 13:22:14Z INFO Listener] Runner is built for Linux (X64) - linux-x64.
+[2025-01-07 13:22:14Z INFO Listener] RuntimeInformation: Ubuntu 22.04.5 LTS.
+[2025-01-07 13:22:14Z INFO Listener] Version: 2.321.0
+[2025-01-07 13:22:14Z INFO Listener] Commit: e249007931b7c8e857797fa259c167f0bd4f997a
+[2025-01-07 13:22:14Z INFO Listener] Culture: en-US
+[2025-01-07 13:22:14Z INFO Listener] UI Culture: en-US
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO Listener] Validating directory permissions for: '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO CommandLineParser] Parse
+[2025-01-07 13:22:14Z INFO CommandLineParser] Parsing 1 args
+[2025-01-07 13:22:14Z INFO CommandLineParser] parsing argument
+[2025-01-07 13:22:14Z INFO CommandLineParser] HasArgs: False
+[2025-01-07 13:22:14Z INFO CommandLineParser] Adding Command: run
+[2025-01-07 13:22:14Z INFO Listener] Arguments parsed
+[2025-01-07 13:22:14Z INFO Runner] ExecuteCommand
+[2025-01-07 13:22:14Z INFO ConfigurationStore] currentAssemblyLocation: /home/ayamatani/aesd-assignments/actions-runner/bin/Runner.Listener.dll
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] binPath: /home/ayamatani/aesd-assignments/actions-runner/bin
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] RootFolder: /home/ayamatani/aesd-assignments/actions-runner
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'Runner': '/home/ayamatani/aesd-assignments/actions-runner/.runner'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] ConfigFilePath: /home/ayamatani/aesd-assignments/actions-runner/.runner
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'Credentials': '/home/ayamatani/aesd-assignments/actions-runner/.credentials'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] CredFilePath: /home/ayamatani/aesd-assignments/actions-runner/.credentials
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'MigratedCredentials': '/home/ayamatani/aesd-assignments/actions-runner/.credentials_migrated'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] MigratedCredFilePath: /home/ayamatani/aesd-assignments/actions-runner/.credentials_migrated
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'Service': '/home/ayamatani/aesd-assignments/actions-runner/.service'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] ServiceConfigFilePath: /home/ayamatani/aesd-assignments/actions-runner/.service
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'help': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'version': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'check': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Command 'configure': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Command 'remove': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-01-07 13:22:14Z INFO ConfigurationManager] LoadSettings
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured()
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-07 13:22:14Z INFO ConfigurationManager] Is configured: True
+[2025-01-07 13:22:14Z INFO ConfigurationStore] Read setting file: 309 chars
+[2025-01-07 13:22:14Z INFO ConfigurationManager] Settings Loaded
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-01-07 13:22:14Z INFO CommandSettings] Command 'run': 'True'
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured()
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-07 13:22:14Z INFO ConfigurationManager] Is configured: True
+[2025-01-07 13:22:14Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-01-07 13:22:14Z INFO Runner] Set runner startup type - Manual
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'once': 'False'
+[2025-01-07 13:22:14Z INFO CommandSettings] Flag 'once': 'False'
+[2025-01-07 13:22:14Z INFO Runner] RunAsync
+[2025-01-07 13:22:14Z INFO ConfigurationManager] LoadSettings
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured()
+[2025-01-07 13:22:14Z INFO ConfigurationStore] IsConfigured: True
+[2025-01-07 13:22:14Z INFO ConfigurationManager] Is configured: True
+[2025-01-07 13:22:14Z INFO ConfigurationManager] Settings Loaded
+[2025-01-07 13:22:14Z INFO MessageListener] {
+  "AgentId": 21,
+  "AgentName": "Ubuntu",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus15.actions.githubusercontent.com/deKesoEQVDZCvLX61cRZnDVJUEvIuJYKzWoCTIXLYG0iO3GlER/",
+  "GitHubUrl": "https://github.com/cu-ecen-aeld/assignment-2-ayumunwap",
+  "WorkFolder": "_work"
+}
+[2025-01-07 13:22:14Z INFO MessageListener] Loading Credentials
+[2025-01-07 13:22:14Z INFO ConfigurationStore] HasCredentials()
+[2025-01-07 13:22:14Z INFO ConfigurationStore] stored True
+[2025-01-07 13:22:14Z INFO CredentialManager] GetCredentialProvider
+[2025-01-07 13:22:14Z INFO CredentialManager] Creating type OAuth
+[2025-01-07 13:22:14Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:14Z INFO HostContext] Well known directory 'Root': '/home/ayamatani/aesd-assignments/actions-runner'
+[2025-01-07 13:22:14Z INFO HostContext] Well known config file 'RSACredentials': '/home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams'
+[2025-01-07 13:22:14Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:14Z INFO MessageListener] Attempt to create session.
+[2025-01-07 13:22:14Z INFO MessageListener] Connecting to the Runner Server...
+[2025-01-07 13:22:14Z INFO RunnerServer] EstablishVssConnection
+[2025-01-07 13:22:14Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-01-07 13:22:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:22:14Z INFO RunnerServer] EstablishVssConnection
+[2025-01-07 13:22:14Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-01-07 13:22:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:22:14Z INFO RunnerServer] EstablishVssConnection
+[2025-01-07 13:22:14Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-01-07 13:22:14Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:22:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:22:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:22:15Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:22:15Z INFO MessageListener] VssConnection created
+[2025-01-07 13:22:15Z INFO Terminal] WRITE LINE: 
+[2025-01-07 13:22:15Z INFO Terminal] WRITE LINE: 
+[2025-01-07 13:22:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:15Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:16Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:22:17Z INFO MessageListener] Session created.
+[2025-01-07 13:22:17Z INFO Terminal] WRITE LINE: Current runner version: '2.321.0'
+[2025-01-07 13:22:17Z INFO Terminal] WRITE LINE: 2025-01-07 13:22:17Z: Listening for Jobs
+[2025-01-07 13:22:17Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-01-07 13:22:17Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:18Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:22:20Z INFO MessageListener] Message '743889269007105345' received from session '8b8a01f4-e274-4ea9-a986-82f1e433bfb0'.
+[2025-01-07 13:22:20Z INFO ConfigurationStore] HasCredentials()
+[2025-01-07 13:22:20Z INFO ConfigurationStore] stored True
+[2025-01-07 13:22:20Z INFO CredentialManager] GetCredentialProvider
+[2025-01-07 13:22:20Z INFO CredentialManager] Creating type OAuth
+[2025-01-07 13:22:20Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-07 13:22:20Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:20Z INFO ActionsRunServer] EstablishVssConnection
+[2025-01-07 13:22:20Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-01-07 13:22:20Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:22:21Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:22:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:21Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:22:22Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:22:22Z INFO JobDispatcher] Job request 1 for plan 8f10cc03-5654-4f2c-b2d1-b08f4b3eccbe job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 received.
+[2025-01-07 13:22:22Z INFO JobDispatcher] Pull OrchestrationId 8f10cc03-5654-4f2c-b2d1-b08f4b3eccbe.unit-test.__default from JWT claims
+[2025-01-07 13:22:22Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-01-07 13:22:22Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-01-07 13:22:22Z INFO Terminal] WRITE LINE: 2025-01-07 13:22:22Z: Running job: unit-test
+[2025-01-07 13:22:22Z INFO JobDispatcher] Start renew job request 1 for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:22:23Z INFO JobDispatcher] Successfully renew job request 1, job is valid till 1/7/2025 1:32:36 PM
+[2025-01-07 13:22:23Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper] Starting process:
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   File name: '/home/ayamatani/aesd-assignments/actions-runner/bin/Runner.Worker'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 150 153'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Working directory: '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-01-07 13:22:23Z INFO ProcessInvokerWrapper] Process started with process id 9652, waiting for process exit.
+[2025-01-07 13:22:23Z INFO JobDispatcher] Send job request message to worker for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:22:23Z INFO ProcessChannel] Sending message of length 39945, with hash '98eeb572c73dfa13cf84293754d7521fd271f9f41a0190b71d5f16fd12958d21'
+[2025-01-07 13:22:23Z INFO JobNotification] Entering JobStarted Notification
+[2025-01-07 13:22:23Z INFO JobNotification] Entering StartMonitor
+[2025-01-07 13:23:21Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:23:21Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:23:21Z INFO ProcessInvokerWrapper] Finished process 9652 with exit code 100, and elapsed time 00:00:57.9357991.
+[2025-01-07 13:23:21Z INFO JobDispatcher] Worker finished for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171. Code: 100
+[2025-01-07 13:23:21Z INFO JobDispatcher] finish job request for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 with result: Succeeded
+[2025-01-07 13:23:21Z INFO Terminal] WRITE LINE: 2025-01-07 13:23:21Z: Job unit-test completed with result: Succeeded
+[2025-01-07 13:23:21Z INFO JobDispatcher] Stop renew job request for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:23:21Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 1.
+[2025-01-07 13:23:21Z INFO JobNotification] Entering JobCompleted Notification
+[2025-01-07 13:23:21Z INFO JobNotification] Entering EndMonitor
+[2025-01-07 13:23:21Z INFO MessageListener] Received job status event. JobState: Online
+[2025-01-07 13:23:22Z INFO MessageListener] Message '1639165805202063596' received from session '8b8a01f4-e274-4ea9-a986-82f1e433bfb0'.
+[2025-01-07 13:23:22Z INFO ConfigurationStore] HasCredentials()
+[2025-01-07 13:23:22Z INFO ConfigurationStore] stored True
+[2025-01-07 13:23:22Z INFO CredentialManager] GetCredentialProvider
+[2025-01-07 13:23:22Z INFO CredentialManager] Creating type OAuth
+[2025-01-07 13:23:22Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-07 13:23:22Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:22Z INFO ActionsRunServer] EstablishVssConnection
+[2025-01-07 13:23:22Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-01-07 13:23:22Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:23:22Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:23:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:23Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:23Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:23:24Z INFO JobDispatcher] Job request 2 for plan 8f10cc03-5654-4f2c-b2d1-b08f4b3eccbe job a047640a-23da-5e9b-1ef8-917a09b3753a received.
+[2025-01-07 13:23:24Z INFO JobDispatcher] Pull OrchestrationId 8f10cc03-5654-4f2c-b2d1-b08f4b3eccbe.full-test.__default from JWT claims
+[2025-01-07 13:23:24Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-01-07 13:23:24Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-01-07 13:23:24Z INFO JobDispatcher] Job request 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 processed succeed.
+[2025-01-07 13:23:24Z INFO Terminal] WRITE LINE: 2025-01-07 13:23:24Z: Running job: full-test
+[2025-01-07 13:23:24Z INFO JobDispatcher] Start renew job request 2 for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:23:24Z INFO JobDispatcher] Successfully renew job request 2, job is valid till 1/7/2025 1:33:37 PM
+[2025-01-07 13:23:24Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper] Starting process:
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   File name: '/home/ayamatani/aesd-assignments/actions-runner/bin/Runner.Worker'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 151 154'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Working directory: '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-01-07 13:23:24Z INFO ProcessInvokerWrapper] Process started with process id 10576, waiting for process exit.
+[2025-01-07 13:23:24Z INFO JobDispatcher] Send job request message to worker for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:23:24Z INFO ProcessChannel] Sending message of length 39947, with hash 'eb6c910b15dbecefa8bfa806675f6eb6a77d0a833057aeae802e78abbc2de413'
+[2025-01-07 13:23:24Z INFO JobNotification] Entering JobStarted Notification
+[2025-01-07 13:23:24Z INFO JobNotification] Entering StartMonitor
+[2025-01-07 13:23:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:23:42Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:23:42Z INFO ProcessInvokerWrapper] Finished process 10576 with exit code 102, and elapsed time 00:00:17.9270951.
+[2025-01-07 13:23:42Z INFO JobDispatcher] Worker finished for job a047640a-23da-5e9b-1ef8-917a09b3753a. Code: 102
+[2025-01-07 13:23:42Z INFO JobDispatcher] finish job request for job a047640a-23da-5e9b-1ef8-917a09b3753a with result: Failed
+[2025-01-07 13:23:42Z INFO Terminal] WRITE LINE: 2025-01-07 13:23:42Z: Job full-test completed with result: Failed
+[2025-01-07 13:23:42Z INFO JobDispatcher] Stop renew job request for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:23:42Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 2.
+[2025-01-07 13:23:42Z INFO JobNotification] Entering JobCompleted Notification
+[2025-01-07 13:23:42Z INFO JobNotification] Entering EndMonitor
+[2025-01-07 13:23:42Z INFO MessageListener] Received job status event. JobState: Online
+[2025-01-07 13:23:43Z INFO MessageListener] Message '6804815492968402032' received from session '8b8a01f4-e274-4ea9-a986-82f1e433bfb0'.
+[2025-01-07 13:23:43Z INFO ConfigurationStore] HasCredentials()
+[2025-01-07 13:23:43Z INFO ConfigurationStore] stored True
+[2025-01-07 13:23:43Z INFO CredentialManager] GetCredentialProvider
+[2025-01-07 13:23:43Z INFO CredentialManager] Creating type OAuth
+[2025-01-07 13:23:43Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-07 13:23:43Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:43Z INFO ActionsRunServer] EstablishVssConnection
+[2025-01-07 13:23:43Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-01-07 13:23:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:23:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:23:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:44Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:23:45Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:23:46Z INFO JobDispatcher] Job request 5 for plan f108169d-4213-42db-9b71-0c61bf52f04c job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 received.
+[2025-01-07 13:23:46Z INFO JobDispatcher] Pull OrchestrationId f108169d-4213-42db-9b71-0c61bf52f04c.unit-test.__default from JWT claims
+[2025-01-07 13:23:46Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-01-07 13:23:46Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-01-07 13:23:46Z INFO JobDispatcher] Job request a047640a-23da-5e9b-1ef8-917a09b3753a processed succeed.
+[2025-01-07 13:23:46Z INFO Terminal] WRITE LINE: 2025-01-07 13:23:46Z: Running job: unit-test
+[2025-01-07 13:23:46Z INFO JobDispatcher] Start renew job request 5 for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:23:46Z INFO JobDispatcher] Successfully renew job request 5, job is valid till 1/7/2025 1:33:59 PM
+[2025-01-07 13:23:46Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper] Starting process:
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   File name: '/home/ayamatani/aesd-assignments/actions-runner/bin/Runner.Worker'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 141 153'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Working directory: '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-01-07 13:23:46Z INFO ProcessInvokerWrapper] Process started with process id 11564, waiting for process exit.
+[2025-01-07 13:23:46Z INFO JobDispatcher] Send job request message to worker for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:23:46Z INFO ProcessChannel] Sending message of length 26800, with hash '27f72069e8cfb32f475ec89b9c8d9609c595e50047431a13f95df59e18e2cde0'
+[2025-01-07 13:23:46Z INFO JobNotification] Entering JobStarted Notification
+[2025-01-07 13:23:46Z INFO JobNotification] Entering StartMonitor
+[2025-01-07 13:24:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:24:01Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:24:01Z INFO ProcessInvokerWrapper] Finished process 11564 with exit code 100, and elapsed time 00:00:15.4975877.
+[2025-01-07 13:24:01Z INFO JobDispatcher] Worker finished for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171. Code: 100
+[2025-01-07 13:24:01Z INFO JobDispatcher] finish job request for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 with result: Succeeded
+[2025-01-07 13:24:01Z INFO Terminal] WRITE LINE: 2025-01-07 13:24:01Z: Job unit-test completed with result: Succeeded
+[2025-01-07 13:24:01Z INFO JobDispatcher] Stop renew job request for job 0e10f8dd-85b5-5bee-19c6-47fc7db6f171.
+[2025-01-07 13:24:01Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 5.
+[2025-01-07 13:24:01Z INFO JobNotification] Entering JobCompleted Notification
+[2025-01-07 13:24:01Z INFO JobNotification] Entering EndMonitor
+[2025-01-07 13:24:01Z INFO MessageListener] Received job status event. JobState: Online
+[2025-01-07 13:24:02Z INFO MessageListener] Message '8423076283073399793' received from session '8b8a01f4-e274-4ea9-a986-82f1e433bfb0'.
+[2025-01-07 13:24:02Z INFO ConfigurationStore] HasCredentials()
+[2025-01-07 13:24:02Z INFO ConfigurationStore] stored True
+[2025-01-07 13:24:02Z INFO CredentialManager] GetCredentialProvider
+[2025-01-07 13:24:02Z INFO CredentialManager] Creating type OAuth
+[2025-01-07 13:24:02Z INFO CredentialManager] Creating credential type: OAuth
+[2025-01-07 13:24:02Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:24:02Z INFO ActionsRunServer] EstablishVssConnection
+[2025-01-07 13:24:02Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-01-07 13:24:02Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-01-07 13:24:03Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-01-07 13:24:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:24:03Z INFO RSAFileKeyManager] Loading RSA key parameters from file /home/ayamatani/aesd-assignments/actions-runner/.credentials_rsaparams
+[2025-01-07 13:24:04Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-01-07 13:24:05Z INFO JobDispatcher] Job request 6 for plan f108169d-4213-42db-9b71-0c61bf52f04c job a047640a-23da-5e9b-1ef8-917a09b3753a received.
+[2025-01-07 13:24:05Z INFO JobDispatcher] Pull OrchestrationId f108169d-4213-42db-9b71-0c61bf52f04c.full-test.__default from JWT claims
+[2025-01-07 13:24:05Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-01-07 13:24:05Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-01-07 13:24:05Z INFO JobDispatcher] Job request 0e10f8dd-85b5-5bee-19c6-47fc7db6f171 processed succeed.
+[2025-01-07 13:24:05Z INFO Terminal] WRITE LINE: 2025-01-07 13:24:05Z: Running job: full-test
+[2025-01-07 13:24:05Z INFO JobDispatcher] Start renew job request 6 for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:24:05Z INFO JobDispatcher] Successfully renew job request 6, job is valid till 1/7/2025 1:34:18 PM
+[2025-01-07 13:24:05Z INFO HostContext] Well known directory 'Bin': '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper] Starting process:
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   File name: '/home/ayamatani/aesd-assignments/actions-runner/bin/Runner.Worker'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 151 154'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Working directory: '/home/ayamatani/aesd-assignments/actions-runner/bin'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-01-07 13:24:05Z INFO ProcessInvokerWrapper] Process started with process id 12493, waiting for process exit.
+[2025-01-07 13:24:05Z INFO JobDispatcher] Send job request message to worker for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:24:05Z INFO ProcessChannel] Sending message of length 26802, with hash '49ebe6ad22d5199c7fb6767302ee3f64f8bc165bdc6366f4b1a0aa4b34717d24'
+[2025-01-07 13:24:05Z INFO JobNotification] Entering JobStarted Notification
+[2025-01-07 13:24:05Z INFO JobNotification] Entering StartMonitor
+[2025-01-07 13:24:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:24:22Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-01-07 13:24:22Z INFO ProcessInvokerWrapper] Finished process 12493 with exit code 102, and elapsed time 00:00:17.5771146.
+[2025-01-07 13:24:22Z INFO JobDispatcher] Worker finished for job a047640a-23da-5e9b-1ef8-917a09b3753a. Code: 102
+[2025-01-07 13:24:22Z INFO JobDispatcher] finish job request for job a047640a-23da-5e9b-1ef8-917a09b3753a with result: Failed
+[2025-01-07 13:24:22Z INFO Terminal] WRITE LINE: 2025-01-07 13:24:22Z: Job full-test completed with result: Failed
+[2025-01-07 13:24:22Z INFO JobDispatcher] Stop renew job request for job a047640a-23da-5e9b-1ef8-917a09b3753a.
+[2025-01-07 13:24:22Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 6.
+[2025-01-07 13:24:22Z INFO JobNotification] Entering JobCompleted Notification
+[2025-01-07 13:24:22Z INFO JobNotification] Entering EndMonitor
+[2025-01-07 13:24:22Z INFO MessageListener] Received job status event. JobState: Online
+[2025-01-07 13:54:28Z INFO MessageListener] No message retrieved from session '8b8a01f4-e274-4ea9-a986-82f1e433bfb0' within last 30 minutes.
+[2025-01-07 13:54:42Z INFO Terminal] WRITE LINE: Exiting...
+[2025-01-07 13:54:42Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-01-07 13:54:42Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-01-07 13:54:42Z INFO HostContext] Runner will be shutdown for UserCancelled
+[2025-01-07 13:54:42Z WARN GitHubActionsService] GET request to https://broker.actions.githubusercontent.com/message?sessionId=8b8a01f4-e274-4ea9-a986-82f1e433bfb0&status=Online&runnerVersion=2.321.0&os=Linux&architecture=X64&disableUpdate=false has been cancelled.
+[2025-01-07 13:54:42Z ERR  BrokerServer] Catch exception during request
+[2025-01-07 13:54:42Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpClient.HandleFailure(Exception e, Boolean telemetryStarted, HttpResponseMessage response, CancellationTokenSource cts, CancellationToken cancellationToken, CancellationTokenSource pendingRequestsCts)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpRequestMessage message, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at Sdk.WebApi.WebApi.RawHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Uri requestUri, HttpContent content, IEnumerable`1 queryParameters, Boolean readErrorBody, Object userState, CancellationToken cancellationToken)
+   at GitHub.Actions.RunService.WebApi.BrokerHttpClient.GetRunnerMessageAsync(Nullable`1 sessionId, String runnerVersion, Nullable`1 status, String os, String architecture, Nullable`1 disableUpdate, CancellationToken cancellationToken)
+   at GitHub.Runner.Common.BrokerServer.<>c__DisplayClass7_0.<<GetRunnerMessageAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at GitHub.Runner.Common.RunnerService.RetryRequest[T](Func`1 func, CancellationToken cancellationToken, Int32 maxRetryAttemptsCount, Func`2 shouldRetry)
+[2025-01-07 13:54:42Z ERR  BrokerServer] #####################################################
+[2025-01-07 13:54:42Z ERR  BrokerServer] System.Threading.Tasks.TaskCanceledException: The operation was canceled.
+ ---> System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithNtAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean isProxyAuth, HttpConnection connection, HttpConnectionPool connectionPool, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.AuthenticationHelper.SendWithAuthAsync(HttpRequestMessage request, Uri authUri, Boolean async, ICredentials credentials, Boolean preAuthenticate, Boolean isProxyAuth, Boolean doRequestAuth, HttpConnectionPool pool, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at GitHub.Services.Common.RawHttpMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at GitHub.Services.Common.VssHttpRetryMessageHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+[2025-01-07 13:54:42Z ERR  BrokerServer] #####################################################
+[2025-01-07 13:54:42Z ERR  BrokerServer] System.IO.IOException: Unable to read data from the transport connection: Operation canceled.
+ ---> System.Net.Sockets.SocketException (125): Operation canceled
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource<System.Int32>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.EnsureFullTlsFrameAsync[TIOAdapter](CancellationToken cancellationToken, Int32 estimatedSize)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Security.SslStream.ReadAsyncInternal[TIOAdapter](Memory`1 buffer, CancellationToken cancellationToken)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at System.Net.Http.HttpConnection.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+[2025-01-07 13:54:42Z ERR  BrokerServer] #####################################################
+[2025-01-07 13:54:42Z ERR  BrokerServer] System.Net.Sockets.SocketException (125): Operation canceled
+[2025-01-07 13:54:42Z WARN BrokerServer] Back off 7.6 seconds before next retry. 4 attempt left.
+[2025-01-07 13:54:42Z INFO MessageListener] Get next message has been cancelled.
+[2025-01-07 13:54:42Z INFO JobDispatcher] Shutting down JobDispatcher. Make sure all WorkerDispatcher has finished.
+[2025-01-07 13:54:42Z INFO JobDispatcher] Ensure WorkerDispatcher for job a047640a-23da-5e9b-1ef8-917a09b3753a run to finish, cancel any running job.
+[2025-01-07 13:54:42Z INFO JobDispatcher] Job request a047640a-23da-5e9b-1ef8-917a09b3753a processed succeed.
+[2025-01-07 13:54:42Z INFO Runner] Deleting Runner Session...
+[2025-01-07 13:54:42Z INFO Listener] Runner execution been cancelled.
